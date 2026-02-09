@@ -18,7 +18,7 @@ My research lies in secret sharing and secure multi-party computation (MPC), wit
 
 [Email (SMU)](mailto:cyqin@smu.edu.sg) ·
 
-[Wechat]([qinchengyiwechat.png](https://github.com/qinchengyi1/qinchengyi1.github.io/blob/master/images/qinchengyiwechat.png)) 
+[Wechat](https://github.com/qinchengyi1/qinchengyi1.github.io/blob/master/images/qinchengyiwechat.png)
 
 
 
